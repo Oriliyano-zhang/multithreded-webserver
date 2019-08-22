@@ -5,7 +5,7 @@ Introduction
 
 Start server
 -------------
-./sever [-t thread_number] [-p port] [-l path]
+./sever port path
 
 Technical
 ----------
